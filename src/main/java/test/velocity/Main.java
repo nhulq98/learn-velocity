@@ -4,6 +4,7 @@ public class Main {
 
 	public static void main(String[] args) throws Exception {
 
-		new Test6();
+//		new Test1();
+		new Test2();
 	}
 }

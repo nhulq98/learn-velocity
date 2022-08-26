@@ -22,6 +22,7 @@ public class Test2 {
 
 		context.put("name", "Vova");
 		context.put("surname", "Ivanov");
+		context.put("years", 24);
 
 		/* Get Writer */
 		final Writer writer = new StringWriter();

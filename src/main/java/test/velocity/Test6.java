@@ -20,7 +20,7 @@ class Test6 {
 
 		Context context = new VelocityContext();
 
-		final Collection<Product> products = new ArrayList<>();
+		final Collection<Product> products = new ArrayList<Product>();
 
 		products.add(new Product("Widget", 12.99));
 		products.add(new Product("Wotsit", 13.99));
